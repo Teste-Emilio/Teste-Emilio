@@ -25,11 +25,15 @@ Sandra
 Teste *.
 
 
+![Estatísticas do GitHub do Anurag](https://github-readme-stats.vercel.app/api ?username=anuraghazra&count_private=true )
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical[![Estatísticas do GitHub do Anurag](https://github-readme-stats.vercel.app/api ?username=anuraghazra )](https://github.com/anuraghazra/github-readme-stats)
 
+-
+![Estatísticas do GitHub do Anurag](https://github-readme-stats.vercel.app/api ?username=anuraghazra&count_private=true )
+-
 
+![Estatísticas do GitHub do Anurag](https://github-readme-stats.vercel.app/api ?username=anuraghazra&hide=contribs,prs )****
 
 
 
