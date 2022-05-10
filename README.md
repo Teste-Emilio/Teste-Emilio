@@ -22,19 +22,9 @@ _mider_
 >. teste uhhh
 *. mider
 Sandra
-Teste *.
 
 
-![Estatísticas do GitHub do Anurag](https://github-readme-stats.vercel.app/api ?username=anuraghazra&count_private=true )
-
-
-
--
-![Estatísticas do GitHub do Anurag](https://github-readme-stats.vercel.app/api ?username=anuraghazra&count_private=true )
--
-
-![Estatísticas do GitHub do Anurag](https://github-readme-stats.vercel.app/api ?username=anuraghazra&hide=contribs,prs )****
-
-
-
+Alinhado a esquerda | Centralizado | Alinhado a direita
+:--------- | :------: | -------:
+Valor | Valor | Valor
 
